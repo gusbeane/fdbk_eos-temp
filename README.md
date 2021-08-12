@@ -6,17 +6,17 @@
 <br>
 <br>
 
-Sit tight while your article builds. This may take up to five minutes, at which point you can refresh this page. You can also check the build progress by clicking on the Actions tab at the top. If there are any issues, please refer to the <a href='https://github.com/rodluger/showyourwork'>showyourwork documentation</a>.
-<!--
+
+
 
 <p align="center">
-<a href="https://github.com/rodluger/showyourwork-template/actions/workflows/showyourwork.yml">
-<img src="https://github.com/rodluger/showyourwork-template/actions/workflows/showyourwork.yml/badge.svg" alt="Article status"/>
+<a href="https://github.com/gusbeane/fdbk_eos-temp/actions/workflows/showyourwork.yml">
+<img src="https://github.com/gusbeane/fdbk_eos-temp/actions/workflows/showyourwork.yml/badge.svg" alt="Article status"/>
 </a>
-<a href="https://github.com/rodluger/showyourwork-template/raw/main-pdf/dag.pdf">
+<a href="https://github.com/gusbeane/fdbk_eos-temp/raw/main-pdf/dag.pdf">
 <img src="https://img.shields.io/badge/workflow-graph-blue.svg?style=flat" alt="View the workflow DAG"/>
 </a>
-<a href="https://github.com/rodluger/showyourwork-template/raw/main-pdf/ms.pdf">
+<a href="https://github.com/gusbeane/fdbk_eos-temp/raw/main-pdf/ms.pdf">
 <img src="https://img.shields.io/badge/article-pdf-blue.svg?style=flat" alt="Read the article"/>
 </a>
 </p>
@@ -31,4 +31,4 @@ The first thing you might want to do is customize the `tex/ms.tex` file, which i
 Finally, change or edit the `LICENSE` as needed and replace the text in this `README.md` with some useful informatin for the reader!
 
 If you run into any trouble, please check out the [showyourwork documentation](https://github.com/rodluger/showyourwork). If you think you've encountered a bug, please check out the [issues page](https://github.com/rodluger/showyourwork/issues) and raise a new one if needed.
--->
+
